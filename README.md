@@ -4,22 +4,22 @@
 ## Introduction
 
 This is a multi-threaded multi-pool GPU miner with ATI GPU monitoring,
-(over)clocking and fanspeed support for scrypt-based cryptocurrency. It is
-based on cgminer by Con Kolivas (ckolivas), which is in turn based on
-cpuminer by Jeff Garzik (jgarzik).
+(over)clocking and fanspeed support for ZenProtocol
 
-**releases**: https://github.com/sgminer-dev/sgminer/releases
 
-**git tree**: https://github.com/sgminer-dev/sgminer
+#NOTE Sources will be uploaded soon. For now just visit the releases page to download the binaries
 
-**bugtracker**: https://github.com/sgminer-dev/sgminer/issues
 
-**irc**: `#sgminer` and `#sgminer-dev` on freenode
+**releases**: https://github.com/ZenProtocol-Pool/sgminer/releases
 
-**mailing lists**: https://sourceforge.net/p/sgminer/mailman/
+**git tree**: https://github.com/ZenProtocol-Pool/sgminer
+
+**bugtracker**: https://github.com/ZenProtocol-Pool/sgminer/issues
+
+**telegram**: https://t.me/Leafpool_Mining
+
 
 License: GPLv3.  See `COPYING` for details.
-
 
 ## Documentation
 
