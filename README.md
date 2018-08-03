@@ -1,4 +1,4 @@
-# sgminer
+# sgminer-zp
 
 
 ## Introduction
